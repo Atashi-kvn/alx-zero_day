@@ -1,1 +1,2 @@
-Read Me
+My first readme
+Modelling code
